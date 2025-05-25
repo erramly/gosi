@@ -12,10 +12,9 @@ A modern full-stack starter kit for building single-page applications with Larav
 - **Full-stack** Laravel 10 + Vue 3 integration
 - **Inertia.js** for seamless client-side routing
 - **Vite** for lightning-fast builds
-- **Authentication** ready with Laravel Breeze
-- **SSR** (Server-Side Rendering) support
+- **Authentication** ready with Laravel
 - **Production-optimized** configuration
-- **TypeScript** support (optional)
+
 
 ## 🛠️ System Requirements
 
